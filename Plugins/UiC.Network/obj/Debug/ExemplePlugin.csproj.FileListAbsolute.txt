@@ -1,0 +1,2 @@
+D:\Github\UiC-Project\ExemplePlugin\obj\Debug\ExemplePlugin.csprojAssemblyReference.cache
+D:\Github\UiC-Project\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CoreCompileInputs.cache

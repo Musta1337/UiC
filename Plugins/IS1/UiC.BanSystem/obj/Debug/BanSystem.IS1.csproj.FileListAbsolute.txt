@@ -1,0 +1,30 @@
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\bin\Debug\BanSystem.dll.config
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\bin\Debug\BanSystem.dll
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\bin\Debug\BanSystem.pdb
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csprojAssemblyReference.cache
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CoreCompileInputs.cache
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CopyComplete
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\obj\Debug\BanSystem.dll
+C:\Users\Alpa\Documents\Visual Studio 2017\Projects\BanSystem\BanSystem.IS1\obj\Debug\BanSystem.pdb
+D:\Github\UiC-Project\BanSystem.IS1\obj\Debug\BanSystem.IS1.csprojAssemblyReference.cache
+D:\Github\UiC-Project\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\BanSystem.IS1\obj\Debug\BanSystem.dll
+D:\Github\UiC-Project\BanSystem.IS1\obj\Debug\BanSystem.pdb
+D:\Github\UiC-Project\BanSystem.IS1\bin\Debug\BanSystem.dll.config
+D:\Github\UiC-Project\BanSystem.IS1\bin\Debug\BanSystem.dll
+D:\Github\UiC-Project\BanSystem.IS1\bin\Debug\BanSystem.pdb
+D:\Github\UiC-Project\BanSystem.IS1\bin\Debug\Newtonsoft.Json.dll
+D:\Github\UiC-Project\BanSystem.IS1\bin\Debug\Newtonsoft.Json.xml
+D:\Github\UiC-Project\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CopyComplete
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\bin\Debug\BanSystem.dll.config
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\bin\Debug\BanSystem.dll
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\bin\Debug\BanSystem.pdb
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\bin\Debug\Newtonsoft.Json.dll
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\bin\Debug\Newtonsoft.Json.xml
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csprojAssemblyReference.cache
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\obj\Debug\BanSystem.IS1.csproj.CopyComplete
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\obj\Debug\BanSystem.dll
+D:\Github\UiC-Project\UiC-BanSystem\BanSystem.IS1\obj\Debug\BanSystem.pdb

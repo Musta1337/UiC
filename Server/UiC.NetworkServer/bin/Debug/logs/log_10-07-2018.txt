@@ -1,0 +1,40 @@
+[Info] <07/10/2018 09:22:53> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:26:44> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:35:11> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:36:58> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:38:04> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:38:35> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:39:18> ****HandlerManager*****
+Available Handlers Count : 0
+
+[Info] <07/10/2018 09:40:59> ****HandlerManager*****
+Available Handlers Count : 1
+2
+
+[Info] <07/10/2018 11:42:06> Initializing Database...
+[Info] <07/10/2018 11:42:06> Opening Database...
+[Info] <07/10/2018 11:42:07> Server listening at port 9250
+[Info] <07/10/2018 11:42:22> Database query: SELECT * FROM servers WHERE Name = @0 AND IP = @1
+[Info] <07/10/2018 11:42:29> Server doesn't exist, add it to Database
+[Info] <07/10/2018 11:47:48> Initializing Database...
+[Info] <07/10/2018 11:47:48> Opening Database...
+[Info] <07/10/2018 11:47:49> Server listening at port 9250
+[Info] <07/10/2018 11:47:49> Database query: SELECT * FROM servers WHERE Name = @0 AND IP = @1
+[Info] <07/10/2018 11:47:49> Server doesn't exist, add it to Database
+[Info] <07/10/2018 11:47:49> Database query: INSERT INTO `servers` (`Name`,`IP`,`IsOnline`,`RowAdded`,`RowUpdated`) VALUES (@0,@1,@2,@3,@4);
+SELECT @@IDENTITY AS NewID;
+[Info] <07/10/2018 11:47:49> Database query: SELECT * FROM servers WHERE XnAddr = @0
+[Info] <07/10/2018 12:33:27> Initializing Database...
+[Info] <07/10/2018 12:33:27> Opening Database...

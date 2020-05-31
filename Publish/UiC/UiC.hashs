@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "IS1/UiC.AntiCheat.dll",
+    "Hash": "04c10cd195abe8841023d02b851445aa"
+  },
+  {
+    "Name": "IS1/UiC.Commands.dll",
+    "Hash": "17d5c5cae762c816f8203ffb89feff78"
+  },
+  {
+    "Name": "IS1/UiC.Core.dll",
+    "Hash": "0c4ff82cdbf111c782bf503676f06ab7"
+  },
+  {
+    "Name": "IS1/UiC.Network.dll",
+    "Hash": "cfa2432c343d345ed31afb8bda99a040"
+  },
+  {
+    "Name": "IS1/UiC.Performance.dll",
+    "Hash": "fed860a067a286b72ec05188e28dcd66"
+  },
+  {
+    "Name": "IS1/UiC.ServerPatch.dll",
+    "Hash": "15e2b6dfdb5c996a5123fdb7e2f0d3f6"
+  },
+  {
+    "Name": "IS1/UiC.Tracker.dll",
+    "Hash": "058408fd370bab9f4588c62c9cc193ff"
+  },
+  {
+    "Name": "IS1.5/UIC.AntiCheat.dll",
+    "Hash": "a3b8296cbaa1e9f379b4d50839a1d516"
+  },
+  {
+    "Name": "IS1.5/UiC.Commands.dll",
+    "Hash": "17d5c5cae762c816f8203ffb89feff78"
+  },
+  {
+    "Name": "IS1.5/UiC.Core.dll",
+    "Hash": "0c4ff82cdbf111c782bf503676f06ab7"
+  },
+  {
+    "Name": "IS1.5/UiC.Network.dll",
+    "Hash": "cfa2432c343d345ed31afb8bda99a040"
+  },
+  {
+    "Name": "IS1.5/UiC.Performance.dll",
+    "Hash": "04ab9d863bdfc9114237149439738c12"
+  },
+  {
+    "Name": "IS1.5/UiC.ServerPatch.dll",
+    "Hash": "ee3fbc59b80501f9457107be7453d4dc"
+  },
+  {
+    "Name": "IS1.5/UiC.Tracker.dll",
+    "Hash": "058408fd370bab9f4588c62c9cc193ff"
+  }
+]

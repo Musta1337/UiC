@@ -1,0 +1,10 @@
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\bin\Debug\UiC.Loader.IS1.dll
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\bin\Debug\UiC.Loader.IS1.pdb
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\bin\Debug\InfinityScript.dll
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\bin\Debug\Newtonsoft.Json.dll
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\bin\Debug\Newtonsoft.Json.xml
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\obj\Debug\UiC.Loader.IS1.csprojAssemblyReference.cache
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\obj\Debug\UiC.Loader.IS1.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\obj\Debug\UiC.Loader.IS1.csproj.CopyComplete
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\obj\Debug\UiC.Loader.IS1.dll
+D:\Github\UiC-Project\UiC-BanSystem\UiC.Loader.IS1\obj\Debug\UiC.Loader.IS1.pdb

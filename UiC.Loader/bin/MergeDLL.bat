@@ -1,0 +1,1 @@
+"../../packages\ILMerge.2.14.1208\tools\IlMerge.exe" Debug/UiC.Loader.dll Debug/Newtonsoft.Json.dll /out:UiC.auto.dll /targetplatform:"v4,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0"

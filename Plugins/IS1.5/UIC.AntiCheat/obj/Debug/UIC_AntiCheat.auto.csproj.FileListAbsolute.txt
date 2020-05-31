@@ -1,0 +1,13 @@
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\obj\Debug\UIC_AntiCheat.auto.csprojResolveAssemblyReference.cache
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\obj\Debug\UIC_AntiCheat.auto.csproj.CoreCompileInputs.cache
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\UIC_AntiCheat.auto.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\UIC_AntiCheat.auto.pdb
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\InfinityScript.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\UiC.Loader.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\ZKWeb.System.Drawing.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\bin\Debug\UiC.Loader.pdb
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\obj\Debug\UIC_AntiCheat.auto.csproj.CopyComplete
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\obj\Debug\UIC_AntiCheat.auto.dll
+C:\Users\Nithzer\source\repos\UIC_AntiCheat.auto\UIC_AntiCheat.auto\obj\Debug\UIC_AntiCheat.auto.pdb

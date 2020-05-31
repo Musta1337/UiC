@@ -1,0 +1,13 @@
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.Ban.dll.config
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\InfinityScript.dll
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.auto.dll
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.auto.pdb
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\obj\Debug\UiC.BanSystem.IS1.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\obj\Debug\UiC.BanSystem.IS1.csproj.CopyComplete
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\obj\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\obj\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\obj\Debug\UiC.BanSystem.IS1.csprojAssemblyReference.cache
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.Core.dll
+D:\Github\UiC-Project\IS1\UiC.BanSystem.IS1\bin\Debug\UiC.Core.pdb

@@ -1,0 +1,8 @@
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\bin\Debug\ExamplePlugin.dll
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\bin\Debug\ExamplePlugin.pdb
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\bin\Debug\UiC.auto.pdb
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\obj\Debug\UiC.ExamplePlugin.csprojAssemblyReference.cache
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\obj\Debug\UiC.ExamplePlugin.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\obj\Debug\UiC.ExamplePlugin.csproj.CopyComplete
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\obj\Debug\ExamplePlugin.dll
+D:\Github\UiC-Project\Plugins\UiC.ExamplePlugin\obj\Debug\ExamplePlugin.pdb

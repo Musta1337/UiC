@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "IS1/UiC.AntiCheat.dll",
+    "Hash": "fc36dc7adbc35054f0fbd9fea4e31a0a"
+  },
+  {
+    "Name": "IS1/UiC.Ban.dll",
+    "Hash": "a13574b7e3e0bd4cfbbff3df19956704"
+  },
+  {
+    "Name": "IS1.5/UIC.AntiCheat.dll",
+    "Hash": "aa61268b55ec6fd25f54d5a11cca3c25"
+  },
+  {
+    "Name": "IS1.5/UiC.Ban.dll",
+    "Hash": "8e81ab62547b1c3ba32c69593d6be186"
+  }
+]

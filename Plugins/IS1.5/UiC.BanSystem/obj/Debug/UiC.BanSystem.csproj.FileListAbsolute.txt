@@ -1,0 +1,15 @@
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\obj\Debug\UiC.BanSystem.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\obj\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\obj\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.Ban.dll.config
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\InfinityScript.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\System.Net.Http.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.auto.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.Core.dll
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\System.Net.Http.xml
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.auto.pdb
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\bin\Debug\UiC.Core.pdb
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\obj\Debug\UiC.BanSystem.csproj.CopyComplete
+D:\Github\UiC-Project\Plugins\IS1.5\UiC.BanSystem\obj\Debug\UiC.BanSystem.csprojAssemblyReference.cache

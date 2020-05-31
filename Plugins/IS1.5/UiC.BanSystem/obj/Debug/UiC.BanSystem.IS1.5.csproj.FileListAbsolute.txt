@@ -1,0 +1,14 @@
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.Ban.dll.config
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\System.Net.Http.dll
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.auto.dll
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\System.Net.Http.xml
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.auto.pdb
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\obj\Debug\UiC.BanSystem.IS1.5.csproj.CoreCompileInputs.cache
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\obj\Debug\UiC.BanSystem.IS1.5.csproj.CopyComplete
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\obj\Debug\UiC.Ban.dll
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\obj\Debug\UiC.Ban.pdb
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\obj\Debug\UiC.BanSystem.IS1.5.csprojAssemblyReference.cache
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.Core.dll
+D:\Github\UiC-Project\IS1.5\UiC.BanSystem.IS1.5\bin\Debug\UiC.Core.pdb

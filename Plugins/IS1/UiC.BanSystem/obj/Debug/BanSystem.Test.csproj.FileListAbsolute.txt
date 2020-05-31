@@ -1,0 +1,11 @@
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\BanSystem.Test.pdb
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\InfinityScript.dll
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\obj\Debug\BanSystem.Test.csprojAssemblyReference.cache
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\obj\Debug\BanSystem.Test.csproj.CoreCompileInputs.cache
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\obj\Debug\BanSystem.Test.csproj.CopyComplete
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\obj\Debug\BanSystem.Test.pdb
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\BanSystem.Test.dll.config
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\BanSystem.Test.dll
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\obj\Debug\BanSystem.Test.dll
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\alpa\documents\visual studio 2017\Projects\BanSystem.Test\BanSystem.Test\bin\Debug\Newtonsoft.Json.xml
